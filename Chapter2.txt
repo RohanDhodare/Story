@@ -1,1 +1,1 @@
-This is the very awesome and thrilling chapter of story where you will be seeing various twists.
+This is the very awesome and thrilling chapter of story where you will be seeing various twists. This new text is been added in order to practise the branching and merging with git.

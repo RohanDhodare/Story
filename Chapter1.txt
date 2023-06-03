@@ -1,1 +1,1 @@
-Hi all this is the first chapter of my story. This is just the sample chatpers for practicing hands on with git, github and version control.
+Hi all this is the first chapter of my story. This is just the sample chatpers for practicing hands on with git, github and version control. I have modified this chapter and added some new content.
